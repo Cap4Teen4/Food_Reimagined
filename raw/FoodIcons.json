@@ -1,0 +1,154 @@
+{
+  "MOD_CoffeeBeans": {
+    "Icon": "$resource/FoodReimagined/CoffeeBeans"
+  },
+  "MOD_Espresso": {
+    "Icon": "$resource/FoodReimagined/Espresso"
+  },
+  "MOD_HotCoffee": {
+    "Icon": "$resource/FoodReimagined/HotCoffee"
+  },
+  "MOD_CinnamonBun": {
+    "Icon": "$resource/FoodReimagined/CinnamonBun"
+  },
+  "MOD_Oats": {
+    "Icon": "$resource/FoodReimagined/Oats"
+  },
+  "MOD_Oatmeal": {
+    "Icon": "$resource/FoodReimagined/Oatmeal"
+  },
+  "MOD_FrenchToast": {
+    "Icon": "$resource/FoodReimagined/FrenchToast"
+  },
+  "MOD_ChocolateCake": {
+    "Icon": "$resource/FoodReimagined/ChocolateCake"
+  },
+  "MOD_Mocha": {
+    "Icon": "$resource/FoodReimagined/Mocha"
+  },
+  "MOD_Butter": {
+    "Icon": "$resource/FoodReimagined/Butter"
+  },
+  "MOD_Chocolate": {
+    "Icon": "$resource/FoodReimagined/Chocolate"
+  },
+  "MOD_CocoaPowder": {
+    "Icon": "$resource/FoodReimagined/CocoaPowder"
+  },
+  "MOD_CocoaBeans": {
+    "Icon": "$resource/FoodReimagined/CocoaBeans"
+  },
+  "MOD_Oreos": {
+    "Icon": "$resource/FoodReimagined/Oreos"
+  },
+  "MOD_PorkRibs": {
+    "Icon": "$resource/FoodReimagined/PorkRibs"
+  },
+  "MOD_ChickenBurger": {
+    "Icon": "$resource/FoodReimagined/ChickenBurger"
+  },  
+  "MOD_Chicken_Burger": {
+    "Icon": "$resource/FoodReimagined/ChickenBurger"
+  },
+  "MOD_ChickenNuggets": {
+    "Icon": "$resource/FoodReimagined/ChickenNuggets"
+  },
+  "MOD_Chicken_Nuggets": {
+    "Icon": "$resource/FoodReimagined/ChickenNuggets"
+  },
+  "MOD_Stuffing": {
+    "Icon": "$resource/FoodReimagined/Stuffing"
+  },
+  "MOD_Stuffings": {
+    "Icon": "$resource/FoodReimagined/Stuffing"
+  },
+  "MOD_RedBerryOatmeal": {
+    "Icon": "$resource/FoodReimagined/RedBerryOatmeal"
+  },
+  "MOD_BerryGranolaBar": {
+  "Icon": "$resource/FoodReimagined/BerryGranolaBar"
+  },
+  "MOD_PotatoChips": {
+    "Icon": "$resource/FoodReimagined/PotatoChips"
+  },
+  "MOD_CowChips": {
+    "Icon": "$resource/FoodReimagined/CowChips"
+  },
+  "MOD_Bannock": {
+    "Icon": "$resource/FoodReimagined/Bannock"
+  },
+  "MOD_Brownies": {
+    "Icon": "$resource/FoodReimagined/Brownies"
+  },
+  "MOD_Croissant": {
+    "Icon": "$resource/FoodReimagined/Croissant"
+  },
+  "MOD_KetchupChips": {
+    "Icon": "$resource/FoodReimagined/KetchupChips"
+  },
+  "MOD_RedVelvetCake": {
+    "Icon": "$resource/FoodReimagined/RedVelvetCake"
+  },
+  "MOD_ChocolateMilk": {
+    "Icon": "$resource/FoodReimagined/ChocolateMilk"
+  },
+  "MOD_ButteredToast": {
+    "Icon": "$resource/FoodReimagined/ButteredToast"
+  },
+  "MOD_ChocolateChipGranolaBar": {
+    "Icon": "$resource/FoodReimagined/ChocolateChipGranolaBar"
+  },
+  "MOD_Waffles": {
+    "Icon": "$resource/FoodReimagined/Waffles"
+  },
+  "MOD_ChocolateChipMuffin": {
+    "Icon": "$resource/FoodReimagined/ChocolateChipMuffin"
+  },
+  "MOD_ChocolateMuffin": {
+    "Icon": "$resource/FoodReimagined/ChocolateMuffin"
+  },
+  "MOD_RedBerryMuffin": {
+    "Icon": "$resource/FoodReimagined/RedBerryMuffin"
+  },
+  "MOD_ChocolateChipPancakes": {
+    "Icon": "$resource/FoodReimagined/ChocolateChipPancakes"
+  },
+  "MOD_BerryCobbler": {
+       "Berry Cobbler": {
+      "Icon": "$resource/FoodReimagined/BerryCobbler"
+    }},
+    "MOD_BerrySmoothie": {
+        "Berry Smoothie": {
+            "Icon": "$resource/FoodReimagined/BerrySmoothie"
+    }},
+
+    "MOD_RiceKrispie": {
+    "Icon": "$resource/FoodReimagined/RiceKrispies"
+  }  ,
+
+    "MOD_MarshMellows": {
+    "Icon": "$resource/FoodReimagined/MarshMellows"
+  }
+  ,
+      "MOD_RiceKrispieTreat": {
+    "Icon": "$resource/FoodReimagined/RiceKrispieTreat"
+  },
+      "MOD_Vodka": {
+            "Icon": "$resource/FoodReimagined/Vodka"
+    },
+    "MOD_Beer": {
+            "Icon": "$resource/FoodReimagined/Beer"
+    },
+    "MOD_Wine": {
+            "Icon": "$resource/FoodReimagined/Wine"
+    },
+    "MOD_CarrotCake": {
+            "Icon": "$resource/FoodReimagined/CarrotCake"
+    },
+    "MOD_HoneyHam": {
+            "Icon": "$resource/NewFoodReciFoodReimaginedpesNoBuffs/HoneyHam"
+    },
+    "MOD_VeggieSmoothie": {
+            "Icon": "$resource/FoodReimagined/VeggieSmoothie"
+    }
+}
